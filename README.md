@@ -3,7 +3,11 @@ This repo represents the main part of coding experiments and simulations of the 
 - Technical Analysis and Sentiment Embeddings for Market Trend Prediction
 
    https://sentic.net/market-trend-prediction.pdf
-
+   
+    https://sentic.net/market-trend-prediction.pdf
+    
+	https://sentic.net/market-trend-prediction.pdf
+   
 If you find it useful for your research, please cite it using the following BibTex entry:
 
 ```
